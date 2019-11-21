@@ -1,0 +1,307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Pong",
+				"PongApp"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"enem",
+				"enemy_3"
+			],
+			[
+				"enemy",
+				"enemy_2"
+			],
+			[
+				"en",
+				"enemy_3"
+			],
+			[
+				"ene",
+				"enemy"
+			],
+			[
+				"Gmae",
+				"GameObject"
+			],
+			[
+				"y",
+				"y_pos"
+			],
+			[
+				"max",
+				"max_height"
+			],
+			[
+				"back",
+				"background_img"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"em",
+				"enemy_1"
+			],
+			[
+				"game",
+				"game_screen"
+			],
+			[
+				"screen",
+				"game_screen"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/trydjango/manage.py",
+			"settings":
+			{
+				"buffer_size": 629,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/dev/trydjango",
+		"/C/dev/trydjango/src",
+		"/C/dev/trydjango/src/trydjango"
+	],
+	"file_history":
+	[
+		"/C/Users/anders/Documents/wishlist.txt",
+		"/C/Users/anders/Desktop/new_project/scraper1.py",
+		"/C/Users/anders/Downloads/pong.kv",
+		"/C/Users/anders/Downloads/something.py",
+		"/C/Users/anders/Downloads/demo2.py",
+		"/C/Users/anders/Desktop/new_project/search.py",
+		"/C/Users/anders/Desktop/a game/crossy_game_xd.py",
+		"/C/Users/anders/AppData/Local/Programs/Python/Python37-32/game/game.py",
+		"/C/Users/anders/AppData/Local/Programs/Python/Python37-32/crossy_game.py",
+		"/C/Users/anders/Desktop/new_project/something.css",
+		"/C/Users/anders/Desktop/new_project/code.py",
+		"/C/Users/anders/Desktop/new_project/math.py",
+		"/C/Users/anders/Desktop/new_project/.git/COMMIT_EDITMSG",
+		"/C/Users/anders/AppData/Local/Programs/Python/Python37-32/game_backup_stable.py"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/trydjango/manage.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 491.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "trydjango.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
